@@ -1,0 +1,21 @@
+header {
+    background-color: #c0c0c0;
+    height: 100px;
+}
+  
+nav {
+    background-color: #9b9b9b;
+}
+  
+div {
+    background-color: rgb(187, 187, 187);
+}
+
+aside {
+    background-color: #9b9b9b;
+}  
+
+footer {
+    background-color: #333;
+    color: #1b1b1b;
+}
